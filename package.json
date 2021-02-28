@@ -1,0 +1,28 @@
+{
+  "name": "teammaker",
+  "version": "1.0.0",
+  "description": "Simple Employee Mangament Tool",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMitchell95/TeamMaker.git"
+  },
+  "author": "Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMitchell95/TeamMaker/issues"
+  },
+  "homepage": "https://github.com/JMitchell95/TeamMaker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
